@@ -1,3 +1,27 @@
 body {
     font-family: 'Comic Neue', cursive;;
 }
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: grey;
+    border-style: solid;
+    border-color: black;
+    margin: 1rem;
+}
+
+h2.chicken {
+    background-color: pink;
+}
+
+h2.beef {
+    color: white;
+    background-color: lightcoral;
+}
+
+h2.sushi {
+    background-color: lightgoldenrodyellow;
+}
