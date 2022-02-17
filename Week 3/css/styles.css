@@ -2,6 +2,10 @@ body {
     font-family: 'Comic Neue', cursive;
 }
 
+.navbar-brand {
+    font-size: 2rem;
+}
+
 .content-box {
     background-color: lightgray;
 }
